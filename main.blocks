@@ -1,0 +1,43 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id=",Z3J~a.y.zMK0H2.)_J/">score</variable></variables><block type="pxt-on-start" id="--aq0Ml^6bg|?*+1acqf" x="215" y="-464"><statement name="HANDLER"><block type="variables_set" id="E]+H|M9]kC7Mha.RuW_v"><field name="VAR" id=",Z3J~a.y.zMK0H2.)_J/">score</field><value name="VALUE"><block type="lists_create_with" id="2f8O_CR2hx;n|4M-Jx(i" inline="false"><mutation items="11" horizontalafter="3"></mutation><value name="ADD0"><shadow type="math_number"><field name="NUM">0</field></shadow><block type="device_build_image" id="/^oP3l!M$!R$O1A7qQW."><field name="LEDS">`
+        . # # . . 
+        # . . # . 
+        # . . # . 
+        # . . # . 
+        . # # . .
+        `</field></block></value><value name="ADD1"><shadow type="math_number"><field name="NUM">0</field></shadow><block type="device_build_image" id="+6`%oUX~o`839=]p7W7Z"><field name="LEDS">`
+        . . # . . 
+        . . # . . 
+        . . # . . 
+        . . # . . 
+        . . # . .
+        `</field></block></value><value name="ADD2"><shadow type="math_number"><field name="NUM">0</field></shadow><block type="device_build_image" id="eO^v{L$@Bz]m:Qpi|wt)"><field name="LEDS">`
+        . # . # . 
+        . # . # . 
+        . # . # . 
+        . # . # . 
+        . # . # .
+        `</field></block></value><value name="ADD3"><shadow type="math_number" id="2emHL5TBPq2bVF,[[iOm"><field name="NUM">0</field></shadow></value><value name="ADD4"><shadow type="math_number"><field name="NUM">0</field></shadow><block type="device_build_image" id="@]dy37L-XcUNejM2Ejdr"><field name="LEDS">`
+        # . # . # 
+        # . # . # 
+        # . # . # 
+        # . # . # 
+        # . # . #
+        `</field></block></value><value name="ADD5"><shadow type="math_number" id="v=|TrC*XigU$)^Rb,cCL"><field name="NUM">0</field></shadow></value><value name="ADD6"><shadow type="math_number" id="-WM4A(2+cYAcNw%k4;hU"><field name="NUM">0</field></shadow></value><value name="ADD7"><shadow type="math_number" id="9o@Uao60s:gF54kF}5]G"><field name="NUM">0</field></shadow></value><value name="ADD8"><shadow type="math_number"><field name="NUM">0</field></shadow><block type="device_build_image" id="69%gB8cN$qS/XjlcvgsK"><field name="LEDS">`
+        . . . . . 
+        # . # . # 
+        # . # . # 
+        # . # . # 
+        # . . # .
+        `</field></block></value><value name="ADD9"><shadow type="math_number"><field name="NUM">0</field></shadow><block type="device_build_image" id="sCit!Q2AqGV3*{lCitz0"><field name="LEDS">`
+        . . . . . 
+        . # . # . 
+        . # . # . 
+        . # . # . 
+        . . # . .
+        `</field></block></value><value name="ADD10"><shadow type="math_number"><field name="NUM">0</field></shadow><block type="device_build_image" id="B00h#MfErAS6jxcJIgRs"><field name="LEDS">`
+        . . . . . 
+        # . # . # 
+        # . # . # 
+        # . # . # 
+        . # . . #
+        `</field></block></value></block></value></block></statement></block><block type="device_pin_event" id="~7w@9HpG(L/P%!v9V;l;" x="0" y="0"><field name="name">TouchPin.P2</field></block><block type="device_play_note" id="Fs)JDgLSJ/ucemuH3q$R" disabled="true" x="26" y="188"><value name="note"><shadow type="device_note" id="QfpEu$^u1xG,#|s%A-2`" disabled="true"><field name="name">262</field></shadow></value><value name="duration"><shadow type="device_beat" id="s?K8g%4|xunXgr:NLpM!" disabled="true"><field name="fraction">BeatFraction.Whole</field></shadow></value></block></xml>
